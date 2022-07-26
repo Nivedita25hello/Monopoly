@@ -1,0 +1,136 @@
+Next 4 Rolls 5,2,2,1
+0 GO:
+1 The Burvale:Sweedel 
+2 Fast Kebabs:Billy Charlotte 
+3 The Grand Tofu:
+4 Lanzhou Beef Noodle:
+5 Betty's Burgers:Peter 
+6 YOMG:
+7 Gami Chicken:
+8 Massizim:
+1 Peter is at position 5 Has money 13 Owns Properties 5
+2 Billy is at position 2 Has money 16 Owns Properties 2
+3 Charlotte is at position 2 Has money 15 Owns Properties 
+4 Sweedel is at position 1 Has money 15 Owns Properties 1
+
+Next 4 Rolls 4,1,2,1
+0 GO:Peter 
+1 The Burvale:
+2 Fast Kebabs:Sweedel 
+3 The Grand Tofu:Billy 
+4 Lanzhou Beef Noodle:Charlotte 
+5 Betty's Burgers:
+6 YOMG:
+7 Gami Chicken:
+8 Massizim:
+1 Peter is at position 0 Has money 14 Owns Properties 5
+2 Billy is at position 3 Has money 15 Owns Properties 2,3
+3 Charlotte is at position 4 Has money 13 Owns Properties 4
+4 Sweedel is at position 2 Has money 14 Owns Properties 1
+
+Next 4 Rolls 3,1,4,3
+0 GO:
+1 The Burvale:
+2 Fast Kebabs:
+3 The Grand Tofu:Peter 
+4 Lanzhou Beef Noodle:Billy 
+5 Betty's Burgers:Sweedel 
+6 YOMG:
+7 Gami Chicken:
+8 Massizim:Charlotte 
+1 Peter is at position 3 Has money 15 Owns Properties 5
+2 Billy is at position 4 Has money 15 Owns Properties 2,3
+3 Charlotte is at position 8 Has money 11 Owns Properties 4,8
+4 Sweedel is at position 5 Has money 11 Owns Properties 1
+
+Next 4 Rolls 5,2,3,1
+0 GO:
+1 The Burvale:
+2 Fast Kebabs:Charlotte 
+3 The Grand Tofu:
+4 Lanzhou Beef Noodle:
+5 Betty's Burgers:
+6 YOMG:Billy Sweedel 
+7 Gami Chicken:
+8 Massizim:Peter 
+1 Peter is at position 8 Has money 11 Owns Properties 5
+2 Billy is at position 6 Has money 16 Owns Properties 2,3,6
+3 Charlotte is at position 2 Has money 15 Owns Properties 4,8
+4 Sweedel is at position 6 Has money 8 Owns Properties 1
+
+Next 4 Rolls 3,1,1,3
+0 GO:Sweedel 
+1 The Burvale:
+2 Fast Kebabs:Peter 
+3 The Grand Tofu:Charlotte 
+4 Lanzhou Beef Noodle:
+5 Betty's Burgers:
+6 YOMG:
+7 Gami Chicken:Billy 
+8 Massizim:
+1 Peter is at position 2 Has money 11 Owns Properties 5
+2 Billy is at position 7 Has money 15 Owns Properties 2,3,6,7
+3 Charlotte is at position 3 Has money 13 Owns Properties 4,8
+4 Sweedel is at position 0 Has money 9 Owns Properties 1
+
+Next 4 Rolls 4,2,1,3
+0 GO:Billy 
+1 The Burvale:
+2 Fast Kebabs:
+3 The Grand Tofu:Sweedel 
+4 Lanzhou Beef Noodle:Charlotte 
+5 Betty's Burgers:
+6 YOMG:Peter 
+7 Gami Chicken:
+8 Massizim:
+1 Peter is at position 6 Has money 8 Owns Properties 5
+2 Billy is at position 0 Has money 21 Owns Properties 2,3,6,7
+3 Charlotte is at position 4 Has money 13 Owns Properties 4,8
+4 Sweedel is at position 3 Has money 7 Owns Properties 1
+
+Next 4 Rolls 2,3,5,5
+0 GO:Charlotte 
+1 The Burvale:
+2 Fast Kebabs:
+3 The Grand Tofu:Billy 
+4 Lanzhou Beef Noodle:
+5 Betty's Burgers:
+6 YOMG:
+7 Gami Chicken:
+8 Massizim:Peter Sweedel 
+1 Peter is at position 8 Has money 4 Owns Properties 5
+2 Billy is at position 3 Has money 21 Owns Properties 2,3,6,7
+3 Charlotte is at position 0 Has money 22 Owns Properties 4,8
+4 Sweedel is at position 8 Has money 3 Owns Properties 1
+
+Next 4 Rolls 3,2,4,5
+0 GO:
+1 The Burvale:
+2 Fast Kebabs:Peter 
+3 The Grand Tofu:
+4 Lanzhou Beef Noodle:Charlotte Sweedel 
+5 Betty's Burgers:Billy 
+6 YOMG:
+7 Gami Chicken:
+8 Massizim:
+1 Peter is at position 2 Has money 7 Owns Properties 5
+2 Billy is at position 5 Has money 19 Owns Properties 2,3,6,7
+3 Charlotte is at position 4 Has money 24 Owns Properties 4,8
+4 Sweedel is at position 4 Has money 2 Owns Properties 1
+
+Next 4 Rolls 2,6,5,4
+Sweedel is bankrupt
+0 GO:Charlotte 
+1 The Burvale:
+2 Fast Kebabs:Billy 
+3 The Grand Tofu:
+4 Lanzhou Beef Noodle:Peter 
+5 Betty's Burgers:
+6 YOMG:
+7 Gami Chicken:
+8 Massizim:Sweedel 
+1 Peter is at position 4 Has money 5 Owns Properties 5
+2 Billy is at position 2 Has money 20 Owns Properties 2,3,6,7
+3 Charlotte is at position 0 Has money 27 Owns Properties 4,8
+4 Sweedel is at position 8 Has money 0 Owns Properties 1
+Winner of the game is  Billy who has 20 dollars balance and owns Properties 2,3,6,7
